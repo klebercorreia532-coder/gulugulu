@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2017",
     "reactNamespace": "React",
-    "rootDir": ".",
+    "rootDir": "./",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
